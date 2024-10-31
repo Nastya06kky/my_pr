@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "MenoeGrotesquepro-Italic";
+    src: url("../fonts/Menoe\ Grotesque\ Pro\ Italic.otf") format(truetype);
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: "MenoeGrotesquepro-Regular";
+    src: url("../fonts/Menoe\ Grotesque\ Pro\ Regular.ttf") format(truetype);
+    font-weight: 600;
+    font-style: normal;
+}
+h1{
+    font-family: "MenoeGrotesquepro-Italic";
+    font-size: 45px;
+    color: rgb(81, 81, 139);
+}
+
+h2{
+    font-family: "MenoeGrotesquepro-Regular";
+    font-size: 15px;
+    color: rgb(6, 6, 6);
+}
+h3{
+    font-family: "MenoeGrotesquepro-Italic";
+    font-size: 15px;
+    color: rgb(6, 6, 6);
+}
